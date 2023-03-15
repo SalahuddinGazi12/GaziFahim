@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @GaziFahim
-- 👀 I’m interested in Creating new game and software
-- 🌱 I’m currently learning how to make cross platform software
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Creating new game and Metaverse project and also like work with AR and VR project
+
 
 <!---
 GaziFahim/GaziFahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
